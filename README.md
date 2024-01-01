@@ -1,4 +1,4 @@
-# Sentiment Analysis with Machine Learning
+# Twitter Sentiment Analysis with Machine Learning
 # Summary
 Social media has become a prominent platform for expressing opinions, but it also introduces challenges such as the spread of negativity and hate speech. In this project, we leverage machine learning to analyze sentiments in tweets, categorizing them as either positive or negative.
 
